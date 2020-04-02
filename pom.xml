@@ -4,6 +4,7 @@
     <groupId>net.hassannazar</groupId>
     <artifactId>mp-rest-client-javase</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
         <module>server</module>
